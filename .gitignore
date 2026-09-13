@@ -1,0 +1,19 @@
+# Dependências
+node_modules/
+
+# Arquivos gerados pelo Vite
+dist/
+
+# Arquivos locais
+.env
+.env.local
+
+# Logs
+*.log
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
