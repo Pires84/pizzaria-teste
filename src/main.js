@@ -71,7 +71,7 @@ document.querySelector('#app').innerHTML = `
         <div class="hero-visual">
 
           <img
-            src="/images/hero-pizzaria-otimizada.webp"
+            src="./images/hero-pizzaria-otimizada.webp"
             alt="Pizza artesanal recém-saída do forno"
             loading="eager"
             fetchpriority="high"
